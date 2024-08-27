@@ -6,3 +6,5 @@ Hi there 👋 I am [Francisco](https://linkedin.com/in/franciscocabrita), Lead S
 - Fun facts: I truly love nature and minimalism. I really hate light pollution. I am a beekeeper.
 
 ![](https://hit.yhype.me/github/profile?user_id=16199)
+
+<a href ="https://cal.com/franciscocabrita"><img alt="Let's chat" src="https://cal.com/book-with-cal-dark.svg" /></a>
